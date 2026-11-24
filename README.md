@@ -40,3 +40,6 @@ Final clean-kernel run (Restart Kernel and Run All Cells): **8.61 s**, as printe
 - After integration, every code cell in Steps 1–6 and both bonus sections produced exactly the same printed output as the Steps 1–6 checkpoint, because each step draws from its own spawned generator.
 - Every number quoted in the Step 7 and Step 8 prose appears in that run's printed output.
 - Every "check yourself" value for Steps 7 and 8 is reproduced. The Step 8 weights and MMSEs at c = 0, 0.8, 1.0, and 1.4 match the manual to the six decimals it prints.
+
+## Recorded Demo
+https://youtu.be/bY20WobCji4 
